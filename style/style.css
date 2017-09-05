@@ -1,0 +1,141 @@
+/*                              Pagina index                     */
+#heading{
+	height: 400px;
+  	background-image: url("../img/heading.jpg");
+}
+.heading{
+    text-align: center;
+    font-size: 7rem;
+    color: white;
+    font-family: cursive;
+    padding-top: 5%;
+    text-shadow: 4px 4px grey;
+
+}
+.welcomebutton{
+	position: absolute;
+    margin-top: 800px;
+    left: 30%;
+    top: 40%;
+    z-index: 10;
+    padding: 50px 180px;
+    border-radius: 30px;
+    opacity: 0.7;
+    font-size: 2rem;
+    background-color: white;
+}
+.welcomebutton:hover{
+	background: gold;
+	opacity: 0.6;
+	color: white;
+}
+h4{
+	text-align: center;
+	padding: 10px;
+}
+nav{
+	font-size: 1.5em;
+}
+.padding{
+	padding: 0 10px;
+}
+.padding2{
+	padding-top: 10px;
+}
+
+.menu{
+	background-color: #f7e685;
+	border-radius: 20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	font-size: 0.75em;
+	margin: 10px;
+	padding: 5px;
+}
+.carta{
+	text-align: justify;
+	align-content: center;
+
+}
+.carousel-inner{
+		box-shadow: 20px;
+}
+#pedido{
+	border-radius: 10px;
+	background-color: #f2d28e;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	list-style:none;
+	padding: 20px;
+	margin:-10px;
+}
+.btn2{
+	box-shadow: 0 4px 8px 0 rgba(104, 88, 10, 0.7), 0 6px 20px 0 rgba(104, 88, 10, 0.7);
+	position: absolute;
+	margin-right: 5%;
+}
+.somos{
+	text-align: justify;
+	border: black;
+
+}
+.imagenSomos{
+	max-width: 80%;
+}
+select{
+	opacity: 0.6;
+	padding: 200px 200px;
+}
+
+.imagenPlato{
+	max-width: 250px;
+    max-height: 250px;
+    position: relative;
+    margin-top: 50px;
+    background-color: white;
+    border-color: black;
+    border-radius: 25px;
+    padding: 2px;
+    margin: 5px 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+/*                                    Contacto                                */
+.marginTopBot{
+	margin: 50px 0px;
+}
+body{
+	background-image: url("../img/fondopiedra.jpg");
+}
+.contact{
+	border-radius: 10px;
+	border-color: grey;
+	background-color: f7e685;
+	
+}
+
+/*            quienes somos                     */
+.weAre{
+	border-radius: 10px;
+	background-color: #f2d28e;
+	box-shadow: 10px 10px 5px grey;
+	padding: 20px;
+	text-align: justify;
+}
+.menos, .mas{
+	background-color: #d6c251;
+	box-shadow: 0 4px 8px 0 rgba(104, 88, 10, 0.7), 0 6px 20px 0 rgba(104, 88, 10, 0.7);
+	position: relative;
+	margin-right: 5%;
+}
+/*             altura div                      */
+.heigth1{
+	height: 50px;
+	vertical-align: middle;
+}
+.heigth2{
+	height: 200px;
+	vertical-align: middle;
+}
+.heigth3{
+	height: 100px;
+	vertical-align: middle;
+}

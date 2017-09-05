@@ -1,0 +1,102 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Restaurante The Cave</title>
+    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="style/bootstrap.css"">
+  </head>
+
+  <body>
+    <script src="js/jquery-2.1.4.js"></script>
+    
+    <div class="container-full-width" id="heading">
+      <h1 class="heading">Restaurante The Cave</h1>
+    </div>
+
+  <!--                              Menú realizado con bootstrap en un UL                             -->
+
+    <nav class="navbar navbar-toggleable-md navbar-light bg-faded mainNav navheight">
+      <div class="container-fluid collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav textCenter offset-md-3">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Bienvenidos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="somos.html">Quienes somos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="menu.html">Menu</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="booking.html">Contacto y reservas</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+
+ <!--                                    Gestionar reservas                                     -->
+
+    <div class="container marginTopBot">
+        <div class="row">
+          <div class="col-md-6">
+            
+              <form class="weAre">
+                <div class="form-group ">
+                  <input type="name" class="form-control" id="" placeholder="Nombre">
+                </div>
+                <div class="form-group">
+                  <input type="lastName" class="form-control" id="" placeholder="Apellidos">
+                </div>
+                <div class="form-group">
+                  <label>Correo en el que recibirá los datos de confirmación</label>
+                  <input type="email" class="form-control" id="" placeholder="Correo electronico">
+                </div>
+                <div class="form-group">
+                  <input type="phone" class="form-control" id="" placeholder="Numero de telefono">
+                </div>
+                <div class="form-group">
+                  <label>¿Algún comentario adicional?</label>
+                  <textarea class="form-control" rows="3"></textarea>
+                  <label>Elige la fecha y hora para la reserva</label>
+                  <input type="date">
+                  <input type="time">
+                </div>
+                <button type="submit" class="btn-secondary btn-lg btn-block pull-right">Reserva ya</button>
+              </form>
+          </div>
+          <div class="col-md-3">
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3169.3736111341163!2d-6.008769685005936!3d37.404643241141315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126b8b0efe0729%3A0xc6dea3a6193ba2ce!2sEOI+Escuela+de+Organizaci%C3%B3n+Industrial+-+Escuela+de+Negocios!5e0!3m2!1ses!2ses!4v1504513047050" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+          </div>
+        </div>
+        <div class="row">
+          <div class="container col-md-8">
+
+
+<!--                                  Formulario de contacto                                         -->       
+
+               <form class="contact weAre marginTopBot padding2">
+                <div class="form-group">
+                  <label>Contáctanos para cualquier duda</label>
+                  <input type="name" class="form-control" id="" placeholder="Nombre">
+                </div>
+                <div class="form-group">
+                  <input type="lastName" class="form-control" id="" placeholder="Apellidos">
+                </div>
+                <div class="form-group">
+                  <input type="email" class="form-control" id="" placeholder="Correo electronico">
+                </div>
+                <div class="form-group">
+                  <textarea class="form-control" rows="3"></textarea>
+                </div>
+                <button type="submit" class="btn-secondary btn-lg btn-block pull-right">Enviar</button>
+              </form>
+          </div>
+        </div>
+     </div>
+
+
+
+    <script src="js/restaurant.js"></script>
+  </body>
+</html>

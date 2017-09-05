@@ -1,0 +1,184 @@
+{
+    "platos": [{
+            "categoria": "Segundo plato",
+            "nombre": "Pollo Dorado",
+            "descripcion": "La primera es el Pollo Dorado, receta que data del siglo XV pero aún se encuentra vigente, anteriormente se hacia el pollo a la brasa, actualmente se puede hacer pollo al horno o pollo a leña. Si te parecen interesantes puedes encontrar más en este blog de recetas de pollo.",
+            "foto": "https://i1.wp.com/www.tierraquebrada.com/images/mercado-norte/receta-pie-de-pollo.jpg?resize=350%2C267",
+            "precio": 10
+
+        },
+        {
+            "categoria": "Primer plato",
+            "nombre": "Sopa de pollo y canela",
+            "descripcion": "Primero tomamos una cacerola con agua, le ponemos los muslos de pollo y el vino tinto, se condimenta con sal y pimienta, y lo hervimos durante 45 min, luego retiramos el pollo y se guarda todo. Cogemos otra cacerola y la calentamos con la grasa de cerdo, hasta que se derrita por completo, luego vamos a tomar los muslos de pollo y los freímos en la grasa de cerdo hasta que se doren completamente, agregamos dos tazas del caldo que hicimos en primera instancia, colocamos ramas de canela, jengibre y clavos de olor al gusto, molemos las almendras en un mortero y se coloca, se deja hervir y que espese y a disfrutar esta sopa de pollo con canela.",
+            "foto": "https://i1.wp.com/www.tierraquebrada.com/images/mercado-norte/receta-pie-de-pollo.jpg?resize=350%2C267",
+            "precio": 20
+
+        },
+        {
+            "categoria": "Segundo plato",
+            "nombre": "Pollo asado con higos",
+            "descripcion": "Se hace una salmuera tomando 300 grs de sal y 3 litros de agua y se revuelve, se sumerge el pollo entero en esta salmuera hasta el otro día y comenzamos la preparación. Esto lo dejara tierno y sabroso. Se rellena el pollo con los higos, trozos de cebolla y romero, se coloca en una bandeja y se rodea con y higos y cebolla en trozos, se le coloca pimienta espolvoreada y azucar moreno, se lleva el pollo al horno y se hornea unos 50 min a 200° hasta que este quede bien cocido y dorado, lo podemos ir rociando con su propio jugo en ocasiones, se saca y se sirve en presas con los higos ya asados.",
+            "foto": "https://i1.wp.com/www.tierraquebrada.com/images/mercado-norte/receta-pie-de-pollo.jpg?resize=350%2C267",
+            "precio": 25
+
+        },
+        {
+            "categoria": "Entrante",
+            "nombre": "Chorizos a las Siete Especias",
+            "descripcion": "Las especias han sido grandes aliadas en las cocinas del mundo, bien para potenciar sabores o bien para camuflar olores. Algunas de ellas modifican el sabor o el aspecto de los alimentos como el azafrán, la canela y el tomillo, mientras que otras estimulan el paladar en las ocasiones que así lo requieren con la picazón provocada por la pimienta, el pimentón, las guindillas o los chiles.",
+            "foto": "https://i2.wp.com/www.tierraquebrada.com/wp-content/uploads/chorizos.jpg?resize=300%2C225",
+            "precio": 9
+
+        },
+        {
+            "categoria": "Postre",
+            "nombre": "Galletas de leche condensada",
+            "descripcion": "Volvemos con una riquísima receta especial para todos aquellos intolerantes al gluten o que tengan algún familiar con dicha intolerancia. Se trata de unas exquisitas galletas de leche condensada hechas en thermomix muy rápido y sencillo. Simplemente tendrás que mezclar todos los ingredientes en la thermomix y por último darle un horneado para poder disfrutar de ellas.",
+            "foto": "http://static.postres.net/pics/350/pic0k0k0k-190-galletas-de-leche-condensada-sin-gluten.jpg",
+            "precio": 78
+
+        },
+        {
+            "categoria": "Postre",
+            "nombre": "Postre de Momias pop de halloween",
+            "descripcion": "31 de Octubre, la noche de los muertos vivientes, también conocida mundialmente como Halloween. ¿Vais a celebrar una fiesta con amigos o familia? Pues una mesa dulce no puede faltar y más con postres adecuados a la fecha. Hoy os enseñamos estos riquísimos Cake Pop con forma de momias para los que solo necesitarás 3 ingredientes y son muy fáciles de hacer. Hacer la receta con fotos y vídeos es muy fácil y sencilla para esta receta, postre casero de momias pop de halloween ",
+            "foto": "http://static.postres.net/pics/350/pic0k0k0k-319-momias-pop-de-halloween.jpg",
+            "precio": 8
+
+        },
+        {
+            "categoria": "Postre",
+            "nombre": "Postre de Muffins de tarta de manzana",
+            "descripcion": "Hacía tiempo que no traíamos una receta de Muffins y en esta ocasión viene mezclada con otro postre popular. Se trata de la tarta de manzana, que la caracteriza la compota que tenemos que hacer para ponerla en el hojaldre. Vamos a hacer esa compota pero para que sea el relleno de nuestro Muffins, consiguiendo este rico y original postre. ¡Con estas medidas tendrás para 6 deliciosos muffins de tarta de manzana!",
+            "foto": "http://static.postres.net/pics/350/pic0k0k0k-932-muffins-de-tarta-de-manzana.jpg",
+            "precio": 6
+
+        },
+        {
+            "categoria": "Postre",
+            "nombre": "Postre de Tarta de fresa y chocolate blanco",
+            "descripcion": "Compartimos con vosotros esta espectacular tarta dividida en tres capas diferentes. En la primera tendremos la base de galletas, hemos optado por galletas maría pero puedes elegir las que más te gusten. En la segunda capa tendrás una mezcla de chocolate blanco y rematando una capa de fresa hecha con un sobre de gelatina. Todo junto hace una combinación perfecta que no podrás parar de comer.",
+            "foto": "http://static.postres.net/pics/350/pic0k0k0k-651-tarta-de-fresa-y-chocolate-blanco.jpg",
+            "precio": 5
+
+        },
+        {
+            "categoria": "Postre",
+            "nombre": "Postre de Galletas dedos para halloween",
+            "descripcion": "Se acerca la noche del terror y debemos estar preparados para ella. Por eso, hoy os traemos una receta con la que hacer dedos de galleta para sorprender a tus invitados en la noche más terrorífica del año. Puedes usar colorante alimenticio para dar color a la masa y hacer dedos de monstruos o brujas. Son muy sencillo y darás un toque escalofriante a tu mesa para esta fecha.",
+            "foto": "http://static.postres.net/pics/350/pic0k0k0k-849-galletas-dedos-para-halloween.jpg",
+            "precio": 9
+
+        },
+        {
+            "categoria": "Postre",
+            "nombre": "Tarta mousse de conguitos y filipinos",
+            "descripcion": "Esta tarta es ideal para los más pequeños ya que hemos usado conguitos y filipinos, dos cosas que les suelen encantar. Con ellos hemos formado una mousse que reposa sobre una base de galletas digestive. El resultado es francamente bueno y cuando la hagas triunfarás con tus invitados.",
+            "foto": "http://static.postres.net/pics/350/pic0k0k0k-758-tarta-mousse-de-conguitos-y-filipinos.jpg",
+            "precio": 22
+
+        },
+        {
+            "categoria": "Segundo plato",
+            "nombre": "Pollo crujiente con salsa César casera",
+            "descripcion": "En verano siempre nos pasamos un poco con nuestra dieta y con este pollo crujiente nos la vamos a saltar seguro. Una de las cosas que más me gusta hacer en verano es la ensalada cesar, pero he de decir que de la ensalada cesar lo que más me gusta es el pollo crujiente, por eso me dije, ¿para que vas a tomar una ensalada entera si lo único que te gusta es el pollo crujiente con la salsa? Pues aquí tenéis lo mejor de la salsa cesar.",
+            "foto": "http://recetasdecocina.elmundo.es/wp-content/uploads/2017/08/Pollo-crujientes-salsa-cesar-casera.jpg",
+            "precio": 33
+
+        },
+        {
+            "categoria": "Segundo plato",
+            "nombre": "Menestra de ternera con verduras ",
+            "descripcion": "La menestra es un plato muy versátil porque nos permite utilizar las verduras de temporada, en este caso alcachofas, porque estamos en otoño.",
+            "foto": "http://recetasdecocina.elmundo.es/wp-content/uploads/2017/07/principal-2.jpg",
+            "precio": 32
+
+        },
+        {
+            "categoria": "Primer plato",
+            "nombre": "Ensalada campera de salmón ahumado",
+            "descripcion": "Un clásico de todos los veranos, la ensalada campera de patata. En este caso le voy a dar un toque diferente, normalmente le suelo poner algo especial y ahora le ha tocado el turno al salmón ahumado, os aseguro que es todo un acierto. Tenéis que saber que es una de las ensaladas más fáciles de hacer y que más variantes tiene, en cada casa se hace de una manera.",
+            "foto": "http://recetasdecocina.elmundo.es/wp-content/uploads/2017/08/ensalada-campera.jpg",
+            "precio": 21
+
+        },
+        {
+            "categoria": "Primer plato",
+            "nombre": "Sangría de cava",
+            "descripcion": "Todos sabemos que la bebida del verano por excelencia es la sangría (sin olvidarme de la horchata, el tinto de verano, la leche merengada, etc… no quiero que me matéis por olvidarme de algunas jejeje), por lo menos aquí en España",
+            "foto": "http://recetasdecocina.elmundo.es/wp-content/uploads/2017/08/Sangria-de-cava.jpg",
+            "precio": 11
+
+        },
+        {
+            "categoria": "Primer plato",
+            "nombre": "Sopa de pulpo y gambas",
+            "descripcion": "Las sopas, sobre todo las de pescado o marisco se pueden hacer con arroz, fideos, sémola o inclusive con pan cortado en laminas finas, aunque en esta ocasión vamos a prepararla con arroz.",
+            "foto": "http://recetasdecocina.elmundo.es/wp-content/uploads/2017/07/principal-3.jpg",
+            "precio": 11
+
+        },
+        {
+            "categoria": "Primer plato",
+            "nombre": "Lubina a la bilbaína",
+            "descripcion": "La lubina es uno de los pescado blancos que como otros admite distintas formas de preparación. Generalmente la manera más habitual de preparar la lubina es a la sal o al horno. Para ello se suelen utilizar lubinas de tamaño grande. Por el contrario, si son de un tamaño pequeño también se puede cocinar a la plancha o fritas.",
+            "foto": "http://recetasdecocina.elmundo.es/wp-content/uploads/2017/07/principal.jpg",
+            "precio": 41
+
+        },
+        {
+            "categoria": "Entrante",
+            "nombre": "Croquetas de queso de cabra y cebolla caramelizada",
+            "descripcion": "Creo que no hay una combinación más clásica que la cebolla caramelizada con el queso de cabra. Hubo una época que no había restaurante...",
+            "foto": "http://recetasdecocina.elmundo.es/wp-content/uploads/2015/12/croquetas-cebolla-caramelizada-y-queso-de-cabra-324x235.jpg",
+            "precio": 11
+
+        },
+        {
+            "categoria": "Entrante",
+            "nombre": "Croquetas de rabo de toro",
+            "descripcion": "La receta de croquetas que traigo es una maravilla la verdad, croquetas de rabo de toro guisado, o de ternera ya que es difícil de encontrar el toro, por eso si encontrais rabo de ternera vale igualmente. Una receta perfecta como entrante ahora que se acercan las fechas navideñas y estamos pensando con que platos vamos a sorprender a nuestros invitados.",
+            "foto": "http://recetasdecocina.elmundo.es/wp-content/uploads/2014/11/receta-croquetas-rabo-ternera.jpg",
+            "precio": 11
+
+        },
+        {
+            "categoria": "Entrante",
+            "nombre": "Croquetas de pollo caseras",
+            "descripcion": "Las croquetas de pollo son una de las grandes conocidas recetas de las abuelas, por lo menos en mi caso. Mi abuela suele hacer croquetas de todo tipo, croquetas de bacalao, croquetas de jamón… pero las que más me gustan son las de pollo.",
+            "foto": "http://recetasdecocina.elmundo.es/wp-content/uploads/2015/08/croquetas-caseras-pollo.jpg",
+            "precio": 11
+
+        },
+        {
+            "categoria": "Bebidas",
+            "nombre": "Vino tinto",
+            "descripcion": "Vino tinto de la provincia de",
+            "foto": "https://receteas.com/wp-content/uploads/2013/12/peras-al-vino-tinto2.jpg",
+            "precio": 8
+        },
+        {
+            "categoria": "Bebidas",
+            "nombre": "Vino blanco",
+            "descripcion": "Vino blanco de la provincia de",
+            "foto": "http://static.vix.com/es/sites/default/files/styles/large/public/imj/elgrancatador/c/caracteristicas-de-un-buen-vino-blanco-1.jpg?itok=oR7BI9jc",
+            "precio": 8
+        },
+        {
+            "categoria": "Bebidas",
+            "nombre": "Refrescos",
+            "descripcion": "Todos los refrescos incluidos",
+            "foto": "https://biotrendies.com/wp-content/uploads/2015/08/refresco-de-cola.jpg",
+            "precio": 4
+        },
+        {
+            "categoria": "Bebidas",
+            "nombre": "Agua",
+            "descripcion": "Recien ordeñada",
+            "foto": "https://files.genial.guru/files/news/part_28/287910/8374010-hermandadblanca_org_conoce-los-beneficios-de-beber-agua-en-ayunas-mejora-tu-salud-1476473756-650-da4bee508f-1476758661.jpg",
+            "precio": 2
+        }
+
+    ]
+}

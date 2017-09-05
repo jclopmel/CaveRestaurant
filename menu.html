@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Restaurante The Cave</title>
+    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="style/bootstrap.css"">
+  </head>
+
+  <body>
+    <script src="js/jquery-2.1.4.js"></script>
+    
+    <div class="container-full-width" id="heading">
+      <h1 class="heading">Restaurante The Cave</h1>
+    </div>
+
+  <!--                              Menú realizado con bootstrap en un UL                             -->
+
+    <nav class="navbar navbar-toggleable-md navbar-light bg-faded mainNav navheight">
+      <div class="container-fluid collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav textCenter offset-md-3">
+          <li class="nav-item padding">
+            <a class="nav-link" href="index.html">Bienvenidos</a>
+          </li>
+          <li class="nav-item padding">
+            <a class="nav-link" href="somos.html">Quienes somos</a>
+          </li>
+          <li class="nav-item padding">
+            <a class="nav-link" href="menu.html">Menu</a>
+          </li>
+          <li class="nav-item padding">
+            <a class="nav-link" href="booking.html">Contacto y reservas</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+  <!--                              Elementos a seleccionar por desplegable                             -->
+
+    <div class="container">
+      <div class="row">
+        <div class="container col-md-10 weAre marginTopBot">
+          <p>
+            Disfruta con nuestros platos, diseñado por los mejores profesionales.<br>
+
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean malesuada sem et purus blandit, vitae interdum sapien venenatis. Pellentesque interdum sollicitudin sem nec sollicitudin. Aliquam maximus augue in aliquam pretium. Donec vitae nulla rhoncus, laoreet tellus sit amet, aliquam odio. Vestibulum faucibus purus id arcu aliquet consectetur. Donec auctor sed est ac iaculis. Nam ipsum risus, rhoncus at risus quis, tempor sollicitudin diam. Curabitur nunc ante, dictum in iaculis porta, commodo et tortor. Donec maximus odio sit amet porttitor dignissim.
+          </p>
+          <select id="select1" name="Categoria" class="form-control form-control-lg custom-select">
+              <option value="">Elija su plato</option>
+              <option value="Entrante">Entrante</option>
+              <option value="Bebidas">Bebidas</option>
+              <option value="Primer plato">Primer plato</option>
+              <option value="Segundo plato">Segundo plato</option>
+              <option value="Postre">Postre</option>           
+          </select>
+        </div>
+      </div>
+    </div>
+    
+
+  <!--                              Muestra los elementos por categorias                             -->
+
+    <div class="container">
+      <div class="row">
+        <div class="container-fluid col-9" id="Carta">
+          <div class='row' id='platosMostrados'>
+          </div>
+        </div>
+
+  <!--                              Zona de los resultado elegidos                             -->
+
+        <div class="container-fluid col-3">
+           <ul id="pedido"></ul>
+        </div>
+      </div>
+    </div>
+  
+
+
+
+    <script src="js/jquery-2.1.4.js"></script>
+    <script src="js/restaurant.js"></script>
+  </body>
+</html>
